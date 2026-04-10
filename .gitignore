@@ -1,0 +1,89 @@
+# ----------------------
+
+# Python cache files
+
+# ----------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ----------------------
+
+# Virtual environments
+
+# ----------------------
+
+venv/
+env/
+ENV/
+.venv/
+
+# ----------------------
+
+# Distribution / packaging
+
+# ----------------------
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------
+
+# Jupyter Notebook checkpoints (if you use them)
+
+# ----------------------
+
+.ipynb_checkpoints/
+
+# ----------------------
+
+# VS Code
+
+# ----------------------
+
+.vscode/
+
+# ----------------------
+
+# PyCharm / IntelliJ
+
+# ----------------------
+
+.idea/
+
+# ----------------------
+
+# MacOS / Windows system files
+
+# ----------------------
+
+.DS_Store
+Thumbs.db
+
+# ----------------------
+
+# Logs
+
+# ----------------------
+
+*.log
+
+# ----------------------
+
+# Environment variables
+
+# ----------------------
+
+.env
+
+# ----------------------
+
+# Temporary files
+
+# ----------------------
+
+*.tmp
+*.swp
